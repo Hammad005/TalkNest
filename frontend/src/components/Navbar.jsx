@@ -13,7 +13,7 @@ const Navbar = () => {
   const {logoutMutation, isPending} = useLogout();
   
   return (
-    <nav className="bg-case-200 border-b border-base-300 sticky z-50 top-0 h-16 flex items-center">
+    <nav className="bg-case-200 border-b border-base-300  h-16 flex items-center">
       <div className="container mx-auto">
         <div className="flex items-center justify-end w-full gap-2">
           {isChatPage && (
