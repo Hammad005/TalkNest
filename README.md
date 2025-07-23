@@ -1,4 +1,5 @@
 # 🌐 TalkNest
+![Demo App](/frontend/public/banner.png)
 
 **TalkNest** is a modern video calling and social networking web app designed to connect people across the globe. Whether you're looking to make new friends, explore different cultures, or learn a new language through real conversations — TalkNest offers a seamless, interactive, and engaging experience.
 
